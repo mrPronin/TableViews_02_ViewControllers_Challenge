@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A25EB2C91C81BE8C00C02D85 /* ScaryBugsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A25EB2C81C81BE8C00C02D85 /* ScaryBugsTableViewController.swift */; };
 		A2A3BCCF1C81AA6A006BE4BC /* attribution.txt in Resources */ = {isa = PBXBuildFile; fileRef = A2A3BCB51C81AA6A006BE4BC /* attribution.txt */; };
 		A2A3BCD01C81AA6A006BE4BC /* bee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2A3BCB61C81AA6A006BE4BC /* bee.jpg */; };
 		A2A3BCD11C81AA6A006BE4BC /* beetle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2A3BCB71C81AA6A006BE4BC /* beetle.jpg */; };
@@ -41,6 +42,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A25EB2C81C81BE8C00C02D85 /* ScaryBugsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaryBugsTableViewController.swift; sourceTree = "<group>"; };
 		A2A3BCB51C81AA6A006BE4BC /* attribution.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = attribution.txt; sourceTree = "<group>"; };
 		A2A3BCB61C81AA6A006BE4BC /* bee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bee.jpg; sourceTree = "<group>"; };
 		A2A3BCB71C81AA6A006BE4BC /* beetle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beetle.jpg; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 				A2A3BCE91C81ADE4006BE4BC /* Model */,
 				D34F180B1BC4506900A09B8C /* AppDelegate.swift */,
 				D34F180D1BC4506900A09B8C /* ViewController.swift */,
+				A25EB2C81C81BE8C00C02D85 /* ScaryBugsTableViewController.swift */,
 				D34F180F1BC4506900A09B8C /* Main.storyboard */,
 				A2A3BCB41C81AA6A006BE4BC /* Challenge Resources */,
 				D34F18121BC4506900A09B8C /* Assets.xcassets */,
@@ -256,6 +259,7 @@
 				D34F180E1BC4506900A09B8C /* ViewController.swift in Sources */,
 				D34F180C1BC4506900A09B8C /* AppDelegate.swift in Sources */,
 				A2A3BCE11C81AA6A006BE4BC /* ScaryBug.swift in Sources */,
+				A25EB2C91C81BE8C00C02D85 /* ScaryBugsTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
